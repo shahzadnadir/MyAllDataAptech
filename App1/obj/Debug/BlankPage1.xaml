@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="App1.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" Margin="158,45,0,0" FontSize="50"  TextWrapping="Wrap" Text="Student form" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="30" x:Name="txt1" Margin="175,172,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="53" Width="273" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="30" x:Name="txt2" Margin="175,265,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="53" Width="273"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="30" x:Name="txt3" Margin="175,354,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="53" Width="273"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="30" x:Name="txt4" Margin="175,438,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="53" Width="273"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="30" x:Name="txt5" Margin="175,526,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="53" Width="273"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="30" x:Name="txt6" Margin="175,616,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="53" Width="273"/>
+
+    </Grid>
+</Page>
+

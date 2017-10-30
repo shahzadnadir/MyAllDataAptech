@@ -1,0 +1,74 @@
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App.xbf
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\bin\Debug\MainPage.xbf
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.xr.xml
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.exe
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.pdb
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\bin\Debug\resources.pri
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\bin\Debug\AppxManifest.xml
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.build.appxrecipe
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App.g.i.cs
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App.g.cs
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\MainPage.g.i.cs
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\MainPage.g.cs
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App.xaml
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\MainPage.xaml
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App.xbf
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\MainPage.xbf
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\XamlSaveStateFile.xml
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App1.exe
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App1.pdb
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\priconfig.xml
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\priconfig.xml.intermediate
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\layout.resfiles
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\layout.resfiles.intermediate
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\resources.resfiles
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\resources.resfiles.intermediate
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\pri.resfiles
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\pri.resfiles.intermediate
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\qualifiers.txt
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\qualifiers.txt.intermediate
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\ProjectArchitectures.txt
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\BlankPage1.g.i.cs
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\BlankPage1.g.cs
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\BlankPage1.xaml
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\obj\Debug\BlankPage1.xbf
+c:\users\asp\documents\visual studio 2013\Projects\App1\App1\bin\Debug\BlankPage1.xbf
+C:\Users\asp\Desktop\App1\App1\bin\Debug\App.xbf
+C:\Users\asp\Desktop\App1\App1\bin\Debug\BlankPage1.xbf
+C:\Users\asp\Desktop\App1\App1\bin\Debug\MainPage.xbf
+C:\Users\asp\Desktop\App1\App1\bin\Debug\App1.xr.xml
+C:\Users\asp\Desktop\App1\App1\bin\Debug\App1.exe
+C:\Users\asp\Desktop\App1\App1\bin\Debug\App1.pdb
+C:\Users\asp\Desktop\App1\App1\bin\Debug\resources.pri
+C:\Users\asp\Desktop\App1\App1\bin\Debug\AppxManifest.xml
+C:\Users\asp\Desktop\App1\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\asp\Desktop\App1\App1\obj\Debug\App.g.i.cs
+C:\Users\asp\Desktop\App1\App1\obj\Debug\App.g.cs
+C:\Users\asp\Desktop\App1\App1\obj\Debug\BlankPage1.g.i.cs
+C:\Users\asp\Desktop\App1\App1\obj\Debug\BlankPage1.g.cs
+C:\Users\asp\Desktop\App1\App1\obj\Debug\MainPage.g.i.cs
+C:\Users\asp\Desktop\App1\App1\obj\Debug\MainPage.g.cs
+C:\Users\asp\Desktop\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\asp\Desktop\App1\App1\obj\Debug\App.xaml
+C:\Users\asp\Desktop\App1\App1\obj\Debug\BlankPage1.xaml
+C:\Users\asp\Desktop\App1\App1\obj\Debug\MainPage.xaml
+C:\Users\asp\Desktop\App1\App1\obj\Debug\App.xbf
+C:\Users\asp\Desktop\App1\App1\obj\Debug\BlankPage1.xbf
+C:\Users\asp\Desktop\App1\App1\obj\Debug\MainPage.xbf
+C:\Users\asp\Desktop\App1\App1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\asp\Desktop\App1\App1\obj\Debug\App1.exe
+C:\Users\asp\Desktop\App1\App1\obj\Debug\App1.pdb
+C:\Users\asp\Desktop\App1\App1\obj\Debug\priconfig.xml
+C:\Users\asp\Desktop\App1\App1\obj\Debug\priconfig.xml.intermediate
+C:\Users\asp\Desktop\App1\App1\obj\Debug\layout.resfiles
+C:\Users\asp\Desktop\App1\App1\obj\Debug\layout.resfiles.intermediate
+C:\Users\asp\Desktop\App1\App1\obj\Debug\resources.resfiles
+C:\Users\asp\Desktop\App1\App1\obj\Debug\resources.resfiles.intermediate
+C:\Users\asp\Desktop\App1\App1\obj\Debug\pri.resfiles
+C:\Users\asp\Desktop\App1\App1\obj\Debug\pri.resfiles.intermediate
+C:\Users\asp\Desktop\App1\App1\obj\Debug\qualifiers.txt
+C:\Users\asp\Desktop\App1\App1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\asp\Desktop\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\asp\Desktop\App1\App1\obj\Debug\ProjectArchitectures.txt
